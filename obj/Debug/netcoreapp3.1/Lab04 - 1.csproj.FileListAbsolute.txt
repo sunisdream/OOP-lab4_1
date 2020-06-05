@@ -1,0 +1,13 @@
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\bin\Debug\netcoreapp3.1\Lab04 - 1.exe
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\bin\Debug\netcoreapp3.1\Lab04 - 1.deps.json
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\bin\Debug\netcoreapp3.1\Lab04 - 1.runtimeconfig.json
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\bin\Debug\netcoreapp3.1\Lab04 - 1.runtimeconfig.dev.json
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\bin\Debug\netcoreapp3.1\Lab04 - 1.dll
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\bin\Debug\netcoreapp3.1\Lab04 - 1.pdb
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.csprojAssemblyReference.cache
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.csproj.CoreCompileInputs.cache
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.AssemblyInfoInputs.cache
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.AssemblyInfo.cs
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.dll
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.pdb
+E:\University\Work\Labs\ІКС - C#\Lab04 - 6\Lab04 - 1\obj\Debug\netcoreapp3.1\Lab04 - 1.genruntimeconfig.cache
